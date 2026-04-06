@@ -1,0 +1,14 @@
+Origin: TurnOS
+Label: TurnOS-Repo
+Suite: stable
+Codename: turnos
+Architectures: all
+Components: main
+Description: Official TurnOS Repository
+Date: 月, 06  4月 2026 09:56:20 UTC
+MD5Sum:
+ f1125d158893fb6e40624e7e93a236b4              390 Packages
+ 076515654c87b57d2a1237c0beeac391              312 Packages.gz
+SHA256:
+ 4ae8a78649e40b9a94f420b71f4e0b1b4bd9a56095b5f0fb42b6114d7843d0bf              390 Packages
+ 42a4511ab4bac417a5908281b6c36d53209a9002673b5ebefea2ee7fb3682adc              312 Packages.gz

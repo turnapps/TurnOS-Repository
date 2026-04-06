@@ -1,0 +1,13 @@
+Package: turnos-keyring
+Version: 1.0
+Architecture: all
+Maintainer: TheBlockPilot <myon.f5.si>
+Filename: ./pool/main/turnos-keyring.deb
+Size: 12216
+MD5sum: 05591124bd3fb4628af342c079f385d6
+SHA1: 92e36d9df619df3a90f07c47374ae8b6d355424d
+SHA256: ad35e1472d42bee6eb482ad977fdcff855e7d1aa645ca40a87dc7e05a58563ac
+Section: misc
+Priority: optional
+Description: TurnOS keyring for TurnOS packages
+
